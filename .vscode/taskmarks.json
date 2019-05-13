@@ -1,0 +1,25 @@
+{
+	"activeTaskName": "default",
+	"tasks": [
+		{
+			"name": "default",
+			"files": [
+				{
+					"filepath": "\\App\\Sales.php",
+					"marks": [
+						291
+					]
+				},
+				{
+					"filepath": "\\App\\homeController.php",
+					"marks": [
+						-113,
+						-14,
+						-24,
+						-28
+					]
+				}
+			]
+		}
+	]
+}
